@@ -1,0 +1,1 @@
+Color.rename("GREEN", "YELLOW")
